@@ -1,17 +1,1 @@
-repository\ProductRepository.class
-entity\Address.class
-util\OrderStatus.class
-repository\OrderRepository.class
-controller\CustomerController.class
-entity\Customer.class
-repository\CustomerRepository.class
-util\MembershipLevel.class
-controller\ProductController.class
-entity\Product.class
-entity\Order.class
-service\CustomerService.class
-service\OrderService.class
-repository\AddressRepository.class
-service\ProductService.class
-controller\OrderController.class
 com\inventoryProject\IMProject\App.class
